@@ -30,7 +30,7 @@ Scheduled vs. Real Shipping: Clustered Column Chart identifying the SLA breaches
 
 Top 15 Risk Categories: Sliced bar chart highlighting the top 15 categories driving the late delivery risk.
 
-Screenshot: !(path/to/your/screenshot2.png)
+<img width="1322" height="742" alt="Supply Chain   Operations deep dive" src="https://github.com/user-attachments/assets/b7a17f57-a762-4909-89fa-c1d72639e961" />
 
 Page 3: Geographical & Market Insights<img width="1321" height="742" alt="Geographical   Market insights" src="https://github.com/user-attachments/assets/9964ba23-13bc-48ea-a5d8-f491dea17bdc" />
 
