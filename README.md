@@ -40,10 +40,6 @@ Global Sales Treemap: Hierarchical view of global market share (Europe leading w
 
 Market Contribution to Late Deliveries: Donut chart showcasing the uniform distribution of delivery failures globally (~20% per market).
 
-Top 5 Order Countries: Clustered bar chart highlighting the highest-revenue countries led by Estados Unidos ($4.9M) and Francia ($2.9M).
-
-![Uploading Geographical & Market insights.png…]()
-
 
 🔍 Key Business Findings & Actionable Recommendations
 1. The Premium Shipping Paradox (SLA Misalignment)
