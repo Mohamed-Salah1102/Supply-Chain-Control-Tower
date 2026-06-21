@@ -19,6 +19,8 @@ Product Performance: Horizontal Bar Chart comparing Sales vs. Profit Margin acro
 
 Shipping Volume: Donut chart outlining the share of orders by shipping mode (Standard Class driving 59.69% of total volume).
 
+<img width="1321" height="742" alt="Executive overview" src="https://github.com/user-attachments/assets/20189cd3-9306-44d9-8b5e-a8f08cd0948a" />
+
 Page 2: Supply Chain & Operations Deep-Dive
 Focuses on operational bottlenecks, shipping SLAs, and category-level risk.
 
@@ -30,7 +32,8 @@ Top 15 Risk Categories: Sliced bar chart highlighting the top 15 categories driv
 
 Screenshot: !(path/to/your/screenshot2.png)
 
-Page 3: Geographical & Market Insights
+Page 3: Geographical & Market Insights<img width="1321" height="742" alt="Geographical   Market insights" src="https://github.com/user-attachments/assets/9964ba23-13bc-48ea-a5d8-f491dea17bdc" />
+
 Focuses on global sales distribution and network-wide bottlenecks.
 
 Global Sales Treemap: Hierarchical view of global market share (Europe leading with $11M, followed by LATAM with $10M).
@@ -38,6 +41,8 @@ Global Sales Treemap: Hierarchical view of global market share (Europe leading w
 Market Contribution to Late Deliveries: Donut chart showcasing the uniform distribution of delivery failures globally (~20% per market).
 
 Top 5 Order Countries: Clustered bar chart highlighting the highest-revenue countries led by Estados Unidos ($4.9M) and Francia ($2.9M).
+
+![Uploading Geographical & Market insights.png…]()
 
 
 🔍 Key Business Findings & Actionable Recommendations
@@ -103,8 +108,8 @@ Color Token System: Consistent color meanings used throughout (Blue for Sales/Vo
 Decluttering: Cleaned all visuals by removing redundant axes, using Top-N filters to eliminate scrollbars, and rounding large values to millions (M) and thousands (K) for executive readability.
 
 👤 Author
-Name:Mohamed Salah
+Name: Mohamed Salah
 
-Role: Supply Chain Data Analyst
+Role: Senior Supply Chain Data Analyst
 
-LinkedIn:https://www.linkedin.com/in/mohamed-salah-76b45a1b4
+LinkedIn: https://www.linkedin.com/in/mohamed-salah-76b45a1b4
